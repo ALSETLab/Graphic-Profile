@@ -8,4 +8,4 @@
 "iPSL Graphic Profile" refers to the entire content of this folder.
 The graphic design was developed by Designery (Silvana I. Vanfretti)
 
-![designery-logo](https://github.com/SmarTS-Lab/Graphic-Profile/blob/master/Ressources/Designery.png)
+<img src="../Resources/Designery.png" width="250">
